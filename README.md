@@ -9,7 +9,6 @@ User-Friendly UI: The user interface is clean and user-friendly, making it easy 
 
 Customizable: You can easily customize the colors, fonts, and other visual aspects of the sign-up screen to match your app's branding.
 
-Validations: Basic form validations are included to ensure that users provide valid input when signing up.
 
 ### Screenshots
 ![Screenshot_1695326443](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/f0635f09-fa81-42a7-9eff-cf92e24af4b2)   ![Screenshot_1695326434](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/bd1623ae-57dd-47e4-a61b-33335cee764d)
