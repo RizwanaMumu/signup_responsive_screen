@@ -11,6 +11,12 @@ Customizable: You can easily customize the colors, fonts, and other visual aspec
 
 
 ### Screenshots
-![Screenshot_1695326443](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/f0635f09-fa81-42a7-9eff-cf92e24af4b2)   ![Screenshot_1695326434](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/bd1623ae-57dd-47e4-a61b-33335cee764d)
+
+Mobile Screen
+![Screenshot_1695326434](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/bdf26937-3af0-4b5b-a82a-711516d258fe)
+
+Tab Screen
+![Screenshot_1695326443](https://github.com/RizwanaMumu/signup_responsive_screen/assets/40663407/aa3de9d5-e528-4106-8f7f-42737990f2a6)
+
 
 
